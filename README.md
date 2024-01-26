@@ -1,10 +1,13 @@
 # emojiShooter
-Another game I'm working on while practicing Unity. Game is playable but not much to do.
+A Roguelike Shoot-em-up based on the Touhou Project series.
 
 Controls:
 Shift - Focus (Slows you down and shows your hitbox)
 Mouse1 - Fire
+Space or Mouse2 - Bomb
 WASD or Arrow Keys - Movement
 
-Currently there is no quit button so you'll have to tab out to close the application.
-Likewise if you die you'll also have to tab out and close the application.
+Note: It is recommended to play on 1920 x 1080 resolution and other resolutions may not be supported.
+
+You can play the game on lower resolutions in the browser version here:
+https://jigglypoff.itch.io/emoji-project
