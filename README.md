@@ -11,4 +11,4 @@ Note: It is recommended to play on 1920 x 1080 resolution and other resolutions 
 If enemies appear off screen, try setting the game to 1920 x 1080 or higher resolution, exit the game, then relaunch.
 
 You can play the game on lower resolutions in the browser version here:
-https://jigglypoff.itch.io/emoji-project
+https://ahongio.itch.io/emoji-project
